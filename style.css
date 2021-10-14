@@ -69,6 +69,7 @@ form h1 {
 }
 #user-input:focus {
   outline: 1px solid black;
+  border-radius: 10px;
 }
 .submit {
   position: absolute;
