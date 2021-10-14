@@ -136,7 +136,7 @@ form h1 {
     height: 12rem;
   }
   #user-input {
-    /* min-width: 30rem; */
+    width: 30rem;
     font-size: 1.6rem;
   }
   .ip_info__display {
