@@ -84,9 +84,9 @@ form h1 {
   background-color: hsl(0, 0%, 17%);
   color: #ffffff;
 }
-.submit:focus {
-  transform: scale(0.1);
-}
+/* .submit:focus {
+  
+} */
 /* INFO SECTION DISPLAY */
 #ip_info {
   position: relative;
