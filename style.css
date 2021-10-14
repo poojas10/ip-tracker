@@ -136,7 +136,7 @@ form h1 {
     height: 12rem;
   }
   #user-input {
-    width: 30rem;
+    /* min-width: 30rem; */
     font-size: 1.6rem;
   }
   .ip_info__display {
@@ -164,6 +164,9 @@ form h1 {
   }
   .ip_info {
     padding: 0;
+  }
+  #user-input {
+    min-width: 25rem;
   }
 }
 @media screen and (min-width: 580px) and (max-width: 760px) {
